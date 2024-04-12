@@ -6,9 +6,9 @@
         "type": "HarmonyOS",
         "material": {
           "certpath": "/Users/mv_rslz/.ohos/config/default_Metaverse_r3BAj70Aum4MOKCFdSE9Tcf5F9-vgBEx1fkURfjRpVI=.cer",
-          "storePassword": "0000001AF55D0C6BE85FE97E94953DFA3F14F8758DB677BED345F4CB2BF23504A12DE439ABAB73070A96",
+          "storePassword": "0000001AEA7E5236D9C3922F7FE7FBF7E441E53015101E52DB4C7141A95208F4A92C5D26DE04897338E4",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001AFC67F9BFCE9F4C70946873D5D11635AA635EC72B284BA55A8BB0E3FB2A754FBFBFDB8F6450A3",
+          "keyPassword": "0000001AE547CFD4B5381487570873848B63804281E3C4563DAB97BB180F57ECE0980EE48EEEE76DF4A1",
           "profile": "/Users/mv_rslz/.ohos/config/default_Metaverse_r3BAj70Aum4MOKCFdSE9Tcf5F9-vgBEx1fkURfjRpVI=.p7b",
           "signAlg": "SHA256withECDSA",
           "storeFile": "/Users/mv_rslz/.ohos/config/default_Metaverse_r3BAj70Aum4MOKCFdSE9Tcf5F9-vgBEx1fkURfjRpVI=.p12"
